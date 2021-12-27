@@ -24,7 +24,7 @@ class App extends React.Component {
           <div className="search-container">
             <img
               className="search-icon"
-              src="https://cdn-icons.flaticon.com/png/512/954/premium/954591.png?token=exp=1640549584~hmac=fa5ab01814a8b5d5b410bc3c6d7c4526"
+              src="https://www.pngfind.com/pngs/m/432-4323226_search-icon-transparent-search-button-png-png-download.png"
               alt="search-icon"
             />
             <input placeholder="Search" />
@@ -33,14 +33,14 @@ class App extends React.Component {
               <ul>
                 <li className="search-results-row">
                   <img
-                    src="https://cdn-icons.flaticon.com/png/512/2202/premium/2202112.png?token=exp=1640549636~hmac=77fd2bde6123dc66516dc505cf69b662"
+                    src="https://thumbs.dreamstime.com/b/male-avatar-icon-flat-style-male-user-icon-cartoon-man-avatar-hipster-vector-stock-91462914.jpg"
                     alt="user-dp"
                   />
                   <span>John Doe</span>
                 </li>
                 <li className="search-results-row">
                   <img
-                    src="https://cdn-icons.flaticon.com/png/512/2202/premium/2202112.png?token=exp=1640549636~hmac=77fd2bde6123dc66516dc505cf69b662"
+                    src="https://thumbs.dreamstime.com/b/male-avatar-icon-flat-style-male-user-icon-cartoon-man-avatar-hipster-vector-stock-91462914.jpg"
                     alt="user-dp"
                   />
                   <span>John Doe</span>
@@ -51,7 +51,7 @@ class App extends React.Component {
           <div className="right-nav">
             <div className="user">
               <img
-                src="https://cdn-icons.flaticon.com/png/512/2202/premium/2202112.png?token=exp=1640549636~hmac=77fd2bde6123dc66516dc505cf69b662"
+                src="https://thumbs.dreamstime.com/b/male-avatar-icon-flat-style-male-user-icon-cartoon-man-avatar-hipster-vector-stock-91462914.jpg"
                 alt="user-dp"
                 id="user-dp"
               />
