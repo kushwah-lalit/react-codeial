@@ -11,7 +11,7 @@ class PostsList extends Component {
             <div className="post-header">
               <div className="post-avatar">
                 <img
-                  src="https://thumbs.dreamstime.com/b/male-avatar-icon-flat-style-male-user-icon-cartoon-man-avatar-hipster-vector-stock-91462914.jpg"
+                  src="https://image.flaticon.com/icons/svg/2154/2154651.svg"
                   alt="user-pic"
                 />
                 <div>
@@ -24,7 +24,7 @@ class PostsList extends Component {
               <div className="post-actions">
                 <div className="post-like">
                   <img
-                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Facebook_Like_button.svg/1024px-Facebook_Like_button.svg.png"
+                    src="https://image.flaticon.com/icons/svg/1077/1077035.svg"
                     alt="likes-icon"
                   />
                   <span>{post.likes.length}</span>
@@ -32,7 +32,7 @@ class PostsList extends Component {
 
                 <div className="post-comments-icon">
                   <img
-                    src="https://image.pngaaa.com/542/748542-middle.png"
+                    src="https://image.flaticon.com/icons/svg/1380/1380338.svg"
                     alt="comments-icon"
                   />
                   <span>{post.comments.length}</span>
